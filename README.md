@@ -18,4 +18,4 @@ La `key` ayuda a React a identificar de forma única qué elementos de una lista
 [https://github.com/Uriel-tech302/t3_act4_react]
 
 **e) Enlace del proyecto desplegado en GitHub Pages:**
-[https://uriel-tech302.github.io/t3_act5_react/]
+[https://uriel-tech302.github.io/t3_act4_react/]
